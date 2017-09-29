@@ -1,6 +1,8 @@
-# linux with x11 and openbox custom configure
+# Linux with x11 and openbox custom configure
 
-## installed rpm for centos 7 :
+Install linux minimal, x window server, openbox, then do some configures for it, that is it, a simple operate system.
+
+## Installed rpm for centos 7 :
 
 * epel-release
 * xorg-x11-server-xorg
