@@ -1,4 +1,4 @@
-# linux-openbox-custom-configure
+# linux with x11 and openbox custom configure
 
 ## installed rpm for centos 7 :
 
