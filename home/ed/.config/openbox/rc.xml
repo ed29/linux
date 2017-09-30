@@ -246,7 +246,7 @@
   </keybind>
 	
    <!--customize-->
-  <keybind key="W-Down">
+  <keybind key="W-Tab">
      <action name="ShowMenu"><menu>client-list-combined-menu</menu></action>
   </keybind> 
   <keybind key="W-m">
