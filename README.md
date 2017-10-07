@@ -12,3 +12,4 @@ Install linux minimal, x window server, openbox, then do some configures for it,
 * xterm
 * wqy-microhei-fonts
 * ibus-libpinyin
+* caja
