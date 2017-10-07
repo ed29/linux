@@ -13,4 +13,5 @@ Install linux minimal, x window server, openbox, then do some configures for it,
 * wqy-microhei-fonts
 * ibus-libpinyin
 * caja
+* gnome-themes-standard
 
