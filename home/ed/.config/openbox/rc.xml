@@ -227,11 +227,7 @@
   <!-- Keybindings for running applications -->
   <keybind key="W-e">
     <action name="Execute">
-      <startupnotify>
-        <enabled>true</enabled>
-        <name>Konqueror</name>
-      </startupnotify>
-      <command>kfmclient openProfile filemanagement</command>
+      <command>caja</command>
     </action>
   </keybind>
 	<keybind key="W-t">
@@ -246,7 +242,7 @@
 	</keybind>	
 	
    <!--Keybindings for showing menu-->
-  <keybind key="W-Tab">
+  <keybind key="W">
      <action name="ShowMenu"><menu>client-list-combined-menu</menu></action>
   </keybind> 
   <keybind key="W-m">
