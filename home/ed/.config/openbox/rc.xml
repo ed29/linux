@@ -168,6 +168,8 @@
 </margins>
 
 <keyboard>
+	<!--by ed29-->
+	
   <chainQuitKey>C-g</chainQuitKey>
 
   <!-- Keybindings for desktop switching -->
@@ -235,14 +237,14 @@
 			<command>xterm</command>
 		</action>
 	</keybind>
-	<keybind key="W-b">
+	<keybind key="W-f">
 		<action name="Execute">
 			<command>firefox</command>
 		</action>
 	</keybind>	
 	
    <!--Keybindings for showing menu-->
-  <keybind key="W-space">
+  <keybind key="W-Tab">
      <action name="ShowMenu"><menu>client-list-combined-menu</menu></action>
   </keybind> 
   <keybind key="W-m">
